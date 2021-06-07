@@ -1,0 +1,6 @@
+#FileLock
+#Mon Jun 07 10:38:50 CEST 2021
+server=192.168.143.246\:53542
+hostName=192.168.143.246
+method=file
+id=179e59fd737938c2877ffaac975a899f04cd0a90fc5
